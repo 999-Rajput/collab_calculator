@@ -1,0 +1,19 @@
+{
+  "name": "test7",
+  "version": "1.0.0",
+  "description": "create a simle caculator with collabration ",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mediveda/calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mediveda/calculator/issues"
+  },
+  "homepage": "https://github.com/Mediveda/calculator#readme"
+}
